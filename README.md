@@ -160,8 +160,6 @@ Hiring is the starting point. [B2B SaaS SEO delivers an average 702% ROI with a 
 
 Give your consultant access to CRM data so they can prioritize the keywords that correlate with your highest-value closed deals — not just high-volume terms. Let them listen to sales calls to understand the specific objections CISOs, IT directors, and procurement teams raise before signing. Pull them into product and compliance discussions so content is accurate, credible, and legally defensible — a failure mode unique to cybersecurity that a generalist consultant will miss entirely.
 
-[Book an intro call with Samy Thuillier](https://zcal.co/samythuillier/15min) to see how a focused SEO strategy builds qualified pipeline for cybersecurity companies — quickly.
-
 ---
 
 ## FAQ
